@@ -166,6 +166,17 @@
             "config": "0 0 0 1 1 * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-xm-url.txt, img-url=https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@master\/Task\/xm.png, tag=小芒获取url, enabled=false",
             "addons": "https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-xm-url.txt, tag=小芒获取url, update-interval=86400, opt-parser=false, enabled=false",
         },
+		
+		
+		{
+            "config": "0 0 6-23 * * * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/dsj.js, img-url=https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@master\/Task\/dsj.png, tag=电视家, enabled=false",
+        }, {
+            "config": "0 0 0 1 1 * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-dsj-header.txt, img-url=https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@master\/Task\/dsj.png, tag=电视家获取header, enabled=false",
+            "addons": "https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-dsj-header.txt, tag=电视家获取header, update-interval=86400, opt-parser=false, enabled=false",
+        },{
+            "config": "0 0 0 1 1 * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-dsj-url.txt, img-url=https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@master\/Task\/dsj.png, tag=电视家获取url, enabled=false",
+            "addons": "https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-dsj-url.txt, tag=电视家获取url, update-interval=86400, opt-parser=false, enabled=false",
+        },
         
 		
 		
