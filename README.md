@@ -14,7 +14,7 @@
 
 ### 更新日志请查看：
 
-https://github.com/sngxpro/QuanX/blob/master/update.md
+https://github.com/Youthsongs/QuanX/blob/master/update.md
 
 ------------------------------------
 
