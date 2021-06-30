@@ -1,6 +1,6 @@
 {
   "name": "公众号少年歌行pro v2p 专用定时任务订阅",
-  "author": "由公众号少年歌行pro维护 https://t.me/sngxpro",
+  "author": "由公众号少年歌行pro维护 https://t.me/Youthsongs",
   "desc": "自用。该订阅仅适用于 elecV2P，与其他软件并不兼容。转载请注明维护者少年歌行pro",
   "date": "2021-06-24 8:00:02",
   "list": [
@@ -488,7 +488,7 @@
       "time": "30 7,19 1-18 6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_limitBox.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/Wenmoux/jd/jd_limitBox.js"
       }
     },
 	{
@@ -497,7 +497,7 @@
       "time": "1 0-23/1 * 6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_618redpacket.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/Wenmoux/jd/jd_618redpacket.js"
       }
     },	
 	   {
@@ -506,7 +506,7 @@
       "time": "30 9,10 1-18 6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_mcxhd_brandcity.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/Wenmoux/jd/jd_mcxhd_brandcity.js"
       }
     },
 	  {
@@ -515,7 +515,7 @@
       "time": "30 11 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/Wenmoux/jd/jd_superBrand.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/Wenmoux/jd/jd_superBrand.js"
       }
     },	 
 	{
@@ -524,7 +524,7 @@
       "time": "20 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_big_winner.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_big_winner.js"
       }
     },	
 	  {
@@ -533,7 +533,7 @@
       "time": "4 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_mcxhd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_mcxhd.js"
       }
     },	
 	  {
@@ -542,7 +542,7 @@
       "time": "4 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_jxlhb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_jxlhb.js"
       }
     },	
 	  {
@@ -551,7 +551,7 @@
       "time": "0 1,21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_star_shop.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_star_shop.js"
       }
     },	
 	{
@@ -560,7 +560,7 @@
       "time": "0 0,1-23/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_mohe.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_mohe.js"
       }
     },	
 	{
@@ -569,7 +569,7 @@
       "time": "13 1,22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_gold_creator.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_gold_creator.js"
       }
     },	
 	 {
@@ -578,7 +578,7 @@
       "time": "0 0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_xtg.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_xtg.js"
       }
     },	
 	 {
@@ -587,7 +587,7 @@
       "time": "13 0-23/2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_zoo.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_zoo.js"
       }
     },	
 	   {
@@ -596,7 +596,7 @@
       "time": "0 0-23/1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_city.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_city.js"
       }
     },	 
 	  {
@@ -605,7 +605,7 @@
       "time": "0 0-18/6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_carnivalcity.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_carnivalcity.js"
       }
     },	 
 	   {
@@ -614,7 +614,7 @@
       "time": "1 0,11,21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_jump.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_jump.js"
       }
     },	
 	  {
@@ -623,7 +623,7 @@
       "time": "13 1,22,23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_daily_lottery.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_daily_lottery.js"
       }
     },
 	 {
@@ -632,7 +632,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_jin_tie.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_jin_tie.js"
       }
     },   
     {
@@ -641,7 +641,7 @@
       "time": "4 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_market_lottery.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_market_lottery.js"
       }
     },  
       {
@@ -650,7 +650,7 @@
       "time": "10 0-23/4 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_health.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_health.js"
       }
     }, 
     {
@@ -659,7 +659,7 @@
       "time": "5-45/20 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_health_collect.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_health_collect.js"
       }
     },
     {
@@ -668,7 +668,7 @@
       "time": "0 8 1-8/1,27,28 2,3 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_nzmh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_nzmh.js"
       }
     }, 
      {
@@ -677,7 +677,7 @@
       "time": "10-20/5 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_live.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_live.js"
       }
     },   
     {
@@ -686,7 +686,7 @@
       "time": "0 9,12,20,21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_global_mh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_global_mh.js"
       }
     },   
     {
@@ -695,7 +695,7 @@
       "time": "0 0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_xtg.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_xtg.js"
       }
     },   
     {
@@ -704,7 +704,7 @@
       "time": "0,31 20-23/1 9,12 3 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_live_redrain.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_live_redrain.js"
       }
     },  
     {
@@ -713,7 +713,7 @@
       "time": "10 1,12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_crazy_joy_coin.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_crazy_joy_coin.js"
       }
     },
      {
@@ -722,7 +722,7 @@
       "time": "2 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_bean_change.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_bean_change.js"
       }
     },
     {
@@ -731,7 +731,7 @@
       "time": "10 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_bean_home.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_bean_home.js"
       }
     },
     {
@@ -740,7 +740,7 @@
       "time": "0 0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_blueCoin.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_blueCoin.js"
       }
     },
     {
@@ -749,7 +749,7 @@
       "time": "10 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_car.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_car.js"
       }
     },
     {
@@ -758,7 +758,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_car_exchange.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_car_exchange.js"
       }
     },
     {
@@ -767,7 +767,7 @@
       "time": "2 0-23/4 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_cash.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_cash.js"
       }
     },
     {
@@ -776,7 +776,7 @@
       "time": "5 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_club_lottery.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_club_lottery.js"
       }
     },
     {
@@ -785,7 +785,7 @@
       "time": "10 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_crazy_joy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_crazy_joy.js"
       }
     },
     {
@@ -794,7 +794,7 @@
       "time": "10 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_crazy_joy_bonus.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_crazy_joy_bonus.js"
       }
     },
     {
@@ -803,7 +803,7 @@
       "time": "10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_daily_egg.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_daily_egg.js"
       }
     },
     {
@@ -812,7 +812,7 @@
       "time": "10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_dreamFactory.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_dreamFactory.js"
       }
     },
     {
@@ -821,7 +821,7 @@
       "time": "5 6-18/6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_fruit.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_fruit.js"
       }
     },
     {
@@ -830,7 +830,7 @@
       "time": "20 13 * * 6",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_get_share_code.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_get_share_code.js"
       }
     },
     {
@@ -839,7 +839,7 @@
       "time": "10 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_jdfactory.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_jdfactory.js"
       }
     },
     {
@@ -848,7 +848,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_jdzz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_jdzz.js"
       }
     },
     {
@@ -857,7 +857,7 @@
       "time": "15 0-23/2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_joy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_joy.js"
       }
     },
     {
@@ -866,7 +866,7 @@
       "time": "15 0-23/1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_joy_feedPets.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_joy_feedPets.js"
       }
     },
     {
@@ -875,7 +875,7 @@
       "time": "0 0-16/8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_joy_reward.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_joy_reward.js"
       }
     },
     {
@@ -884,7 +884,7 @@
       "time": "15 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_joy_run.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_joy_run.js"
       }
     },
     {
@@ -893,7 +893,7 @@
       "time": "10 0-21/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_joy_steal.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_joy_steal.js"
       }
     },
     {
@@ -902,7 +902,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_kd.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_kd.js"
       }
     },
     {
@@ -911,7 +911,7 @@
       "time": "3 0-23/2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_moneyTree.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_moneyTree.js"
       }
     },
     {
@@ -920,7 +920,7 @@
       "time": "10 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_ms.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_ms.js"
       }
     },
     {
@@ -929,7 +929,7 @@
       "time": "15 6-18/6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_pet.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_pet.js"
       }
     },
     {
@@ -938,7 +938,7 @@
       "time": "12 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_pigPet.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_pigPet.js"
       }
     },
     {
@@ -947,7 +947,7 @@
       "time": "1 7-21/2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_plantBean.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_plantBean.js"
       }
     },
     {
@@ -956,7 +956,7 @@
       "time": "0 2 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_price.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_price.js"
       }
     },
     {
@@ -965,7 +965,7 @@
       "time": "1 1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_redPacket.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_redPacket.js"
       }
     },
     {
@@ -974,7 +974,7 @@
       "time": "20 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_sgmh.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_sgmh.js"
       }
     },
     {
@@ -983,7 +983,7 @@
       "time": "10 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_shop.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_shop.js"
       }
     },
     {
@@ -992,7 +992,7 @@
       "time": "16 22 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_small_home.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_small_home.js"
       }
     },
     {
@@ -1001,7 +1001,7 @@
       "time": "8 0-23/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_speed.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_speed.js"
       }
     },
     {
@@ -1010,7 +1010,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_speed_sign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_speed_sign.js"
       }
     },
     {
@@ -1019,7 +1019,7 @@
       "time": "11 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_superMarket.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_superMarket.js"
       }
     },
     {
@@ -1028,7 +1028,7 @@
       "time": "10 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_syj.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_syj.js"
       }
     },
     {
@@ -1037,7 +1037,7 @@
       "time": "55 23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_unsubscribe.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_unsubscribe.js"
       }
     },    
 	  {
@@ -1091,7 +1091,7 @@
       "time": "20 0-23/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/jd_scripts-1/master/jd_jxmc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/jd_scripts-1/master/jd_jxmc.js"
       }
     },	
 	  {
@@ -1145,7 +1145,7 @@
       "time": "15 0,6,13,19,21 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ddo_pk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/ddo_pk.js"
       }
     },	
 	  {
@@ -1226,7 +1226,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/jay_member_olb.js"
       }
     },	
 	{
@@ -1262,7 +1262,7 @@
       "time": "0 15-19/1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_party_night.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/jd_party_night.js"
       }
     },	
 	  {
@@ -1289,7 +1289,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_13.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_13.js"
       }
     },	
 	  {
@@ -1298,7 +1298,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_12.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_12.js"
       }
     },	
 	  {
@@ -1316,7 +1316,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_11.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_11.js"
       }
     },	
 	  {
@@ -1334,7 +1334,7 @@
       "time": "0 0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_xtg_help.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/jd_xtg_help.js"
       }
     },	
 	  {
@@ -1361,7 +1361,7 @@
       "time": "40 9-18/3 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_star.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_star.js"
       }
     },	
 	   {
@@ -1370,7 +1370,7 @@
       "time": "15 9 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_jxhb.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_jxhb.js"
       }
     },	
 	   {
@@ -1379,7 +1379,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_10.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_10.js"
       }
     },	
 	  {
@@ -1388,7 +1388,7 @@
       "time": "15 9,20 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_newInteraction.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_newInteraction.js"
       }
     },	
 	  {
@@ -1397,7 +1397,7 @@
       "time": "15 9,20 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_superbox.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_superbox.js"
       }
     },	
 	  {
@@ -1406,7 +1406,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_freshgoods.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/jay_freshgoods.js"
       }
     },	
 	  {
@@ -1451,7 +1451,7 @@
       "time": "1 0-23/4 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_city_cash.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_city_cash.js"
       }
     },	 
 	 {
@@ -1478,7 +1478,7 @@
       "time": "0 8 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_09.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_09.js"
       }
     },	 
 	   {
@@ -1487,7 +1487,7 @@
       "time": "2 0-18/6 * 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_carnivalcity.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_carnivalcity.js"
       }
     },	
 	   {
@@ -1505,7 +1505,7 @@
       "time": "0 9 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_unbind.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/jd_unbind.js"
       }
     },	
 	    {
@@ -1514,7 +1514,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_08.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_08.js"
       }
     },	
 	   {
@@ -1523,7 +1523,7 @@
       "time": "28 9 18-26 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_urge.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_urge.js"
       }
     },	
 	  {
@@ -1559,7 +1559,7 @@
       "time": "20 9 21-27 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_mi.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_mi.js"
       }
     },	
 	  {
@@ -1604,7 +1604,7 @@
       "time": "25 9 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/member/adolf_oneplus.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/member/adolf_oneplus.js"
       }
     },	
    {
@@ -1613,7 +1613,7 @@
       "time": "15 8,13,18 17-31 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_pk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_pk.js"
       }
     },	 
 	  {
@@ -1631,7 +1631,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_05.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_05.js"
       }
     },	 
 	  {
@@ -1640,7 +1640,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_02.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_02.js"
       }
     },	 
 	   {
@@ -1649,7 +1649,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/member_03.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/member_03.js"
       }
     },	 
 	{
@@ -1721,7 +1721,7 @@
       "time": "15 8 9-13 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/adolf_ETIP.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/car/adolf_ETIP.js"
       }
     },
 	 {
@@ -1730,7 +1730,7 @@
       "time": "15 8 7-31 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/adolf_haier.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/car/adolf_haier.js"
       }
     },
 	 {
@@ -1739,7 +1739,7 @@
       "time": "15 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/car/monk_shop_add_to_car.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/car/monk_shop_add_to_car.js"
       }
     },
 	 {
@@ -1748,7 +1748,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_fanslove.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_fanslove.js"
       }
     },
 	 {
@@ -1757,7 +1757,7 @@
       "time": "25 10-22/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_health_community.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_health_community.js"
       }
     },
 	 {
@@ -1766,7 +1766,7 @@
       "time": "25 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_health_energy.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_health_energy.js"
       }
     },
 	 {
@@ -1775,7 +1775,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_marketLottery.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_marketLottery.js"
       }
     },
 	 {
@@ -1784,7 +1784,7 @@
       "time": "5 8,14,20 11-17 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
       }
     },
 	 {
@@ -1793,7 +1793,7 @@
       "time": "3 20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_shake.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_shake.js"
       }
     },
 	 {
@@ -1802,7 +1802,7 @@
       "time": "25 3 * * 2",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_shop_captain.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_shop_captain.js"
       }
     },
 	 {
@@ -1811,7 +1811,7 @@
       "time": "10 10,15 8-9 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_wish.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_wish.js"
       }
     },
 	 {
@@ -1820,7 +1820,7 @@
       "time": "10 10 * 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/i-chenzhe/z_xmf.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_xmf.js"
       }
     },
 	 {
@@ -1829,7 +1829,7 @@
       "time": "0 0,1-22/2 1-31 4-7 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/member/monk_pasture.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/member/monk_pasture.js"
       }
     },
 	 {
@@ -1838,7 +1838,7 @@
       "time": "25 8,12 6-11 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/adolf_oppo.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_oppo.js"
       }
     },
 	 {
@@ -1847,7 +1847,7 @@
       "time": "15 15 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/monk_shop_follow_sku.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/monk_shop_follow_sku.js"
       }
     },
 	 {
@@ -1856,7 +1856,7 @@
       "time": "3 0,10,23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/monk/normal/monk_shop_lottery.js"
+        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/monk_shop_lottery.js"
       }
     }, 
     {
@@ -2243,7 +2243,7 @@
       "time": "0 0 1 1 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/cgwz.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/cgwz.js"
       }
     },   
      {
@@ -2252,7 +2252,7 @@
       "time": "25 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/z_health_energy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/self/main/delete/gone/z_health_energy.js"
       }
     }, 
      {
@@ -2315,7 +2315,7 @@
       "time": "1 7,12,19 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_beauty.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/jd_beauty.js"
       }
     }, 
     {
@@ -2333,7 +2333,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/self/main/delete/gone/monk_inter_shop_sign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/self/main/delete/gone/monk_inter_shop_sign.js"
       }
     }, 
     {
@@ -2351,7 +2351,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/scripts/main/snjc/snjc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/scripts/main/snjc/snjc.js"
       }
     }, 
     {
@@ -2432,7 +2432,7 @@
       "time": "1 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/jdliveredrain/main/lxk0301_live_redrain.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/jdliveredrain/main/lxk0301_live_redrain.js"
       }
     },
     {
@@ -2567,7 +2567,7 @@
       "time": "0 7 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/ygkc.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/scripts/ygkc.js"
       }
     }, 
     {
@@ -2927,7 +2927,7 @@
       "time": "3 20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_shake.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/i-chenzhe/jd_shake.js"
       }
     },
     {
@@ -3026,7 +3026,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_fanslove.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/i-chenzhe/jd_fanslove.js"
       }
     },
     {
