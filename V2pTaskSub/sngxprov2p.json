@@ -488,7 +488,7 @@
       "time": "30 7,19 1-18 6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/Wenmoux/jd/jd_limitBox.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/Wenmoux/jd/jd_limitBox.js"
       }
     },
 	{
@@ -497,7 +497,7 @@
       "time": "1 0-23/1 * 6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/Wenmoux/jd/jd_618redpacket.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/Wenmoux/jd/jd_618redpacket.js"
       }
     },	
 	   {
@@ -506,7 +506,7 @@
       "time": "30 9,10 1-18 6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/Wenmoux/jd/jd_mcxhd_brandcity.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/Wenmoux/jd/jd_mcxhd_brandcity.js"
       }
     },
 	  {
@@ -515,7 +515,7 @@
       "time": "30 11 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/Wenmoux/jd/jd_superBrand.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/Wenmoux/jd/jd_superBrand.js"
       }
     },	 
 	{
@@ -1361,7 +1361,7 @@
       "time": "40 9-18/3 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_star.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/adolf_star.js"
       }
     },	
 	   {
@@ -1370,7 +1370,7 @@
       "time": "15 9 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_jxhb.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/adolf_jxhb.js"
       }
     },	
 	   {
@@ -1388,7 +1388,7 @@
       "time": "15 9,20 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_newInteraction.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/adolf_newInteraction.js"
       }
     },	
 	  {
@@ -1397,7 +1397,7 @@
       "time": "15 9,20 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_superbox.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/adolf_superbox.js"
       }
     },	
 	  {
@@ -1451,7 +1451,7 @@
       "time": "1 0-23/4 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_city_cash.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_city_cash.js"
       }
     },	 
 	 {
@@ -1487,7 +1487,7 @@
       "time": "2 0-18/6 * 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_carnivalcity.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_carnivalcity.js"
       }
     },	
 	   {
@@ -1523,7 +1523,7 @@
       "time": "28 9 18-26 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_urge.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/adolf_urge.js"
       }
     },	
 	  {
@@ -1559,7 +1559,7 @@
       "time": "20 9 21-27 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_mi.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/adolf_mi.js"
       }
     },	
 	  {
@@ -1604,7 +1604,7 @@
       "time": "25 9 * 5,6 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/member/adolf_oneplus.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/member/adolf_oneplus.js"
       }
     },	
    {
@@ -1613,7 +1613,7 @@
       "time": "15 8,13,18 17-31 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_pk.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/adolf_pk.js"
       }
     },	 
 	  {
@@ -1721,7 +1721,7 @@
       "time": "15 8 9-13 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/car/adolf_ETIP.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/car/adolf_ETIP.js"
       }
     },
 	 {
@@ -1730,7 +1730,7 @@
       "time": "15 8 7-31 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/car/adolf_haier.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/car/adolf_haier.js"
       }
     },
 	 {
@@ -1739,7 +1739,7 @@
       "time": "15 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/car/monk_shop_add_to_car.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/car/monk_shop_add_to_car.js"
       }
     },
 	 {
@@ -1748,7 +1748,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_fanslove.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_fanslove.js"
       }
     },
 	 {
@@ -1757,7 +1757,7 @@
       "time": "25 10-22/3 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_health_community.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_health_community.js"
       }
     },
 	 {
@@ -1766,7 +1766,7 @@
       "time": "25 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_health_energy.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_health_energy.js"
       }
     },
 	 {
@@ -1775,7 +1775,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_marketLottery.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_marketLottery.js"
       }
     },
 	 {
@@ -1784,7 +1784,7 @@
       "time": "5 8,14,20 11-17 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_mother_jump.js"
       }
     },
 	 {
@@ -1793,7 +1793,7 @@
       "time": "3 20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_shake.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_shake.js"
       }
     },
 	 {
@@ -1802,7 +1802,7 @@
       "time": "25 3 * * 2",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_shop_captain.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_shop_captain.js"
       }
     },
 	 {
@@ -1811,7 +1811,7 @@
       "time": "10 10,15 8-9 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_wish.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_wish.js"
       }
     },
 	 {
@@ -1820,7 +1820,7 @@
       "time": "10 10 * 4 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/i-chenzhe/z_xmf.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/i-chenzhe/z_xmf.js"
       }
     },
 	 {
@@ -1829,7 +1829,7 @@
       "time": "0 0,1-22/2 1-31 4-7 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/member/monk_pasture.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/member/monk_pasture.js"
       }
     },
 	 {
@@ -1838,7 +1838,7 @@
       "time": "25 8,12 6-11 5 *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/adolf_oppo.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/adolf_oppo.js"
       }
     },
 	 {
@@ -1847,7 +1847,7 @@
       "time": "15 15 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/monk_shop_follow_sku.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/monk_shop_follow_sku.js"
       }
     },
 	 {
@@ -1856,7 +1856,7 @@
       "time": "3 0,10,23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/monk/normal/monk_shop_lottery.js"
+        "target": "https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/monk/normal/monk_shop_lottery.js"
       }
     }, 
     {
@@ -2252,7 +2252,7 @@
       "time": "25 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/self/main/delete/gone/z_health_energy.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/self/main/delete/gone/z_health_energy.js"
       }
     }, 
      {
@@ -2333,7 +2333,7 @@
       "time": "0 0 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/self/main/delete/gone/monk_inter_shop_sign.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/self/main/delete/gone/monk_inter_shop_sign.js"
       }
     }, 
     {
@@ -2432,7 +2432,7 @@
       "time": "1 8-23 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/jdliveredrain/main/lxk0301_live_redrain.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/jdliveredrain/main/lxk0301_live_redrain.js"
       }
     },
     {
@@ -2927,7 +2927,7 @@
       "time": "3 20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/i-chenzhe/jd_shake.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/i-chenzhe/jd_shake.js"
       }
     },
     {
@@ -3026,7 +3026,7 @@
       "time": "3 10 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Oreomeow/AutoSyncScript/i-chenzhe/jd_fanslove.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/AutoSyncScript/i-chenzhe/jd_fanslove.js"
       }
     },
     {
