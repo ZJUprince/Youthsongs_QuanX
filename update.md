@@ -1,3 +1,55 @@
+### 公众号少年歌行pro：7月1日 9：30，脚本进行了如下变动：
+
+https://github.com/Youthsongs/QuanX
+
+【新增】
+
+1、新增了 `温某人` 大佬 的 `OK语音` 脚本
+
+2、新增了 `温某人` 大佬 的 `OK语音获取auth` 脚本
+
+3、新增了 `温某人` 大佬 的 `京东口袋书店修复` 脚本
+
+4、新增了 `温某人` 大佬 的 `京东欧洲狂欢杯` 脚本
+
+5、新增了 `动物园` 大佬 的 `京东清凉一夏开卡活动12` 脚本
+
+6、新增了 `柠檬` 大佬 的 `京东好物上新` 脚本
+
+7、新增了 `柠檬` 大佬 的 `京东零食街` 脚本
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取大佬仓库教程地址（TG链接）】
+
+https://t.me/shao66/1796
+
+
+#### jd脚本需要配合jd cookie使用，ok语音需要配合ok语音 authtoken使用
+
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
+
+
+
+
+
+
 ### 公众号少年歌行pro：6月24日 22：30，脚本进行了如下变动：
 
 【新增】
