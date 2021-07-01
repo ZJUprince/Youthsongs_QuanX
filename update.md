@@ -1,3 +1,41 @@
+### 公众号少年歌行pro：7月1日 9：50，脚本进行了如下变动：
+
+https://github.com/Youthsongs/QuanX
+
+【新增】
+
+1、新增了 `ziye` 大佬 的 `电视家ziye版` 脚本
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+#### 脚本需要配合以下重写获取cookie
+
+【由于作者使用了泛域名抓包，容易造成其他app出问题，因为单独做了一个获取ck重写规则，抓取ck的时候勾选，抓完后一定关闭，否则一些不允许解密的app可能会无法正常打开】
+
+https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/main/rewrite/dsjziye888.conf, tag=电视家子夜ck（使用泛域名抓完一定关）, update-interval=86400, opt-parser=false, enabled=false
+
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
+-------------------
+
+
+
+
+
+
 ### 公众号少年歌行pro：7月1日 9：30，脚本进行了如下变动：
 
 https://github.com/Youthsongs/QuanX
