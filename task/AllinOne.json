@@ -1,6 +1,6 @@
 {
     "name": "公众号少年歌行pro全网合一整理",
-    "description": "请善用搜索功能哦，如搜索京东可只显示京东系列脚本",
+    "description": "请善用搜索功能哦，比如搜索京东可只显示京东系列脚本",
     "task": [   
                "80 0 6-23 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/dsj.js, tag=电视家ziye版, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/pic/ziye.png, enabled=true",
 	       "0 6 * * * https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/okGetauth.js, tag=OK语音获取auth, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/pic/wen.png, enabled=true",
