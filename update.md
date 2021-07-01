@@ -11,11 +11,11 @@ https://github.com/Youthsongs/QuanX
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 #### 脚本需要配合以下重写获取cookie
 
@@ -60,11 +60,11 @@ https://github.com/Youthsongs/QuanX
  
 【圈x订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
 
 【v2p订阅地址】
 
-https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
+https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
 
 【青龙拉取大佬仓库教程地址（TG链接）】
 
