@@ -37,7 +37,7 @@
       "time": "0 6 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/okGetauth.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/autosync/Wenmoux/other/okGetauth.js"
       }
     },	
 	  {
@@ -46,7 +46,7 @@
       "time": "0-59/6 8-14 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/okyuyin.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/autosync/Wenmoux/other/okyuyin.js"
       }
     },	
 	  {
@@ -200,7 +200,7 @@
       "time": "0 8-14/1 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/Wenmoux/scripts/wen/other/jrkuaixun.js"
+        "target": "https://ghproxy.com/https://raw.githubusercontent.com/yuthpoetry/autosync/Wenmoux/other/jrkuaixun.js"
       }
     },	
 	  {
