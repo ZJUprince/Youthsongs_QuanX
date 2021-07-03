@@ -2,6 +2,62 @@
 
 https://github.com/Youthsongs/QuanX
 
+【修复】
+
+1、对部分 `已私有` 库的脚本替换了临时地址
+
+【新增】
+
+1、补加了 `star261` 大佬 的 `京喜牧场star版` 脚本
+
+2、新增了 `okboy688` 大佬 的 `了不起的动物农场小程序` 脚本 （需要配合下方重写规则抓取cookie使用）
+
+《环境变量》
+DWNC_AUTH 填写账号openid,sessid
+    openid=xxx;sessid=xxx;
+DWNC_VERSION 填写版本号   1.1.8
+
+3、制作了`了不起的动物农场小程序` 脚本的圈x图标，现在好看一些了
+
+
+### 仓库订阅地址：
+ 
+【圈x订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/task/AllinOne.json
+
+【v2p订阅地址】
+
+https://ghproxy.com/https://raw.githubusercontent.com/Youthsongs/QuanX/master/V2pTaskSub/sngxprov2p.json
+
+【青龙拉取star261大佬仓库教程地址（TG链接）】
+
+https://t.me/shao66/1796
+
+【青龙拉取`了不起的动物农场小程序` 脚本单文件命令】
+
+ql raw https://cdn.jsdelivr.net/gh/okboy688/task@dabd36e96efcde5e2880a147764cb4f566340372/dwnc.js
+
+
+#### `了不起的动物农场小程序`脚本需要配合以下重写获取cookie
+
+`
+https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewrite/cookie.conf, tag=获取Cookie（现抓现打勾）, update-interval=86400, opt-parser=false, enabled=true
+
+`
+
+#公众号：少年歌行pro
+#脚本更新
+https://t.me/shao66
+
+-----------------------------
+
+
+
+### 公众号少年歌行pro：7月1日 9：50，脚本进行了如下变动：
+
+https://github.com/Youthsongs/QuanX
+
 【新增】
 
 1、新增了 `ziye` 大佬 的 `电视家ziye版` 脚本
