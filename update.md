@@ -16,6 +16,13 @@ https://github.com/Youthsongs/QuanX
 
 勇敢牛牛，不怕困难～～
 
+
+#公众号：少年歌行pro
+
+#脚本更新
+
+https://t.me/shao66
+
 ------------------------
 
 
@@ -73,7 +80,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/rewri
 `
 
 #公众号：少年歌行pro
+
 #脚本更新
+
 https://t.me/shao66
 
 -----------------------------
